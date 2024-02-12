@@ -1,0 +1,43 @@
+body{
+     background-color:#0c1231;
+     text-align: center;
+     justify-content: center;
+     width: 50%;
+     margin-left: 25%;
+}
+input{
+    background: black;
+    border:#2ecc71 solid ;
+    color: white;
+}
+::placeholder{
+    color: #ffffff ;
+    font-family: serif;
+
+}
+fieldset{
+    color: white;
+    border: #2ecc71 solid 5px;
+    line-height: 50px;
+    margin-top: 10px;
+}
+legend{
+    border: #2ecc71 solid 5px;
+    color: #ffffff;
+    background-color: black;
+    
+}
+.objective{
+    height: 200px;
+    white-space: pre-line;
+    background: black;
+    cursor:pointer ;
+}
+.Obj{
+    color: white;
+}
+textarea{
+    color: white;
+    border: #2ecc71 solid ;
+    margin-top: 10px;
+}
